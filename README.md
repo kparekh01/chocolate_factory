@@ -24,15 +24,6 @@
     with your orders.csv file and simply repeat steps 6 and 7.
 
 
-#Stride Code Test --> My Personal Notes.
-
---> Wanted to build the gemspec, so that you would be able to install the gem and do steps
-    6 and 7 from your irb by requiring 'create_csv', but I didn't have the time.
-
---> Also wanted to let you guys know that your example order below is not in the actual orders.csv
-    provided in the input directory, while the rest of the examples are.  Not a big deal but initially
-    found it a little confusing.
-
 #### input/orders.csv
     cash, price, wrappers needed, type
 
@@ -50,5 +41,3 @@ In this example, the file `output/redemptions.csv` should contain the following:
 
     milk 8, dark 0, white 0, sugar free 1
 
-
---> Had a blast working on this small app, looking forward to your response.
